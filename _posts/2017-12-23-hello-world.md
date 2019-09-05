@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Hello World!
+title: 你好！菜鸡
 tags: Hydrogen
 stickie: true
 ---
-
-Welcome to Hydrogen!<br>If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!
+这是一个菜鸡的博客，也许还能看得过眼？
 
 > Hello Hydrogen!
